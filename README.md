@@ -7,9 +7,7 @@ I'm TCA, and I make skins for osu!, and I also code sometimes.
 
 Here are all of my repositories:
 
-[![epicossskins](https://github-readme-stats.vercel.app/api/pin/?username=imTCA&repo=epicossskins&show_owner=1)](https://github.com/imTCA/epicossskins)
-
-[![tcapassesmaps](https://github-readme-stats.vercel.app/api/pin/?username=imTCA&repo=tcapassesmaps&show_owner=1)](https://github.com/imTCA/tcapassesmaps)
+[![epicossskins](https://github-readme-stats.vercel.app/api/pin/?username=imTCA&repo=epicossskins&show_owner=1)](https://github.com/imTCA/epicossskins) [![tcapassesmaps](https://github-readme-stats.vercel.app/api/pin/?username=imTCA&repo=tcapassesmaps&show_owner=1)](https://github.com/imTCA/tcapassesmaps)
 
 <!--
 **imTCA/imTCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
