@@ -15,7 +15,7 @@ Here are all of my repositories:
 
 📫 How to reach me: You can reach me out on Discord: imTCA#3060
 
-⚡ Fun fact: I like chickens.
+🔭 I’m currently working on my [new skin list repo](https://github.com/imTCA/imTCAskins)!
 
 <!--
 **imTCA/imTCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
