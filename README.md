@@ -11,7 +11,7 @@ Subscribe to my YouTube channels: [TCA Tech](https://www.youtube.com/channel/UCc
 
 Here are all of my repositories:
 
-[![epicossskins](https://github-readme-stats.vercel.app/api/pin/?username=imTCA&repo=epicossskins&show_owner=1)](https://github.com/imTCA/epicossskins) [![tcapassesmaps](https://github-readme-stats.vercel.app/api/pin/?username=imTCA&repo=tcapassesmaps&show_owner=1)](https://github.com/imTCA/tcapassesmaps)
+[![imTCAskins](https://github-readme-stats.vercel.app/api/pin/?username=imTCA&repo=imTCAskins&show_owner=1)](https://github.com/imTCA/epicossskins) [![tcapassesmaps](https://github-readme-stats.vercel.app/api/pin/?username=imTCA&repo=tcapassesmaps&show_owner=1)](https://github.com/imTCA/tcapassesmaps)
 
 📫 How to reach me: You can reach me out on Discord: imTCA#3060
 
