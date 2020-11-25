@@ -9,9 +9,9 @@ Subscribe to my YouTube channels: [TCA Tech](https://www.youtube.com/channel/UCc
 
 [![TCA's github stats](https://github-readme-stats.vercel.app/api?username=imTCA&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
 
-📫 How to reach me: You can reach me out on Discord: imTCA#3060
+📫 **How to reach me:** You can reach me out on Discord (imTCA#3060).
 
-🔭 I’m currently working on my [new skin list repo](https://github.com/imTCA/imTCAskins)!
+🔭 **I’m currently working on** nothing.
 
 <!--
 **imTCA/imTCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
