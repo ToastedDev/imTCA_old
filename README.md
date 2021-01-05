@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm TCA, and I make skins for osu!, and I also code sometimes.
 
-[Facebook](https://facebook.com/tcatechyt) | [Twitter](https://twitter.com/imTCA_) | [Twitch](https://twitch.tv/imTCA) | [Discord](https://discord.gg/dX6QAkx) | [osu! profile](https://osu.ppy.sh/u/imTCA)
+[Facebook](https://facebook.com/tcatechyt) | [Twitter](https://twitter.com/imTCA_) | [Twitch](https://twitch.tv/imTCA) | [Discord](https://discord.gg/dX6QAkx) | [osu! profile](https://osu.ppy.sh/u/imTCA) | [last.fm](https://last.fm/user/imTCA)
 
 [Support me on Patreon!](https://patreon.com/imTCA)
 
