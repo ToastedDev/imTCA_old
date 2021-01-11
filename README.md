@@ -1,5 +1,3 @@
-![TCA's github stats](https://i.imgur.com/zsb3Vr6.png)
-
 ### Hi there 👋
 I'm TCA, and I make skins for osu!, and I also code sometimes.
 
