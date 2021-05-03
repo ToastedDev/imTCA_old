@@ -5,13 +5,13 @@ I'm TCA, and I make skins for osu!, and I also code sometimes.
 
 [Support me on Patreon!](https://patreon.com/imTCA)
 
-Subscribe to my YouTube channels: [TCA Tech](https://www.youtube.com/channel/UCcfWjTmVGZasRkkn0uFGgfg) | [TCADoesDominoes](https://www.youtube.com/channel/UCkY1vAYRat98biXCG7FLJug) | [TCA Lyric Videos](https://www.youtube.com/channel/UC5oOmapBo6OB1coCM0UtleA/) | [osu!genics](https://www.youtube.com/channel/UCfVNIFyIiE1lGntcqCOZ4sw)
+Subscribe to my YouTube channels: [TCA Tech](https://youtube.com/c/TCATech/) | [TCADoesDominoes](https://youtube.com/channel/UCkY1vAYRat98biXCG7FLJug) | [TCA's Random Stuff](https://youtube.com/channel/UCwRtMnqfAvGsibV7jbzl8lA) | [imTCAVODs](https://youtube.com/channel/UCfcYW2TNGr3eRLscDnviZag) | [TCA Lyric Videos](https://youtube.com/channel/UC5oOmapBo6OB1coCM0UtleA/) | [osu!genics](https://youtube.com/channel/UCfVNIFyIiE1lGntcqCOZ4sw) | [Monster Music](https://youtube.com/channel/UCPIWRuoOjCUtdhJhJfUsPTw)
 
 [![TCA's github stats](https://github-readme-stats.vercel.app/api?username=imTCA&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
 
 📫 **How to reach me:** You can reach me out on Discord (imTCA#3060).
 
-🔭 **I’m currently working on** my new website???
+🔭 **I’m currently working on** a podcast.
 
 <!--
 **imTCA/imTCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
